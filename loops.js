@@ -11,9 +11,9 @@ function forLoop(arr) {
 
 function whileLoop(num) {
   const n = num;
-  while (num > 0) {
-    console.log(num);
-    num--;
+  while (n > 0) {
+    console.log(n);
+    n--;
   };
   console.log('done');
 };
