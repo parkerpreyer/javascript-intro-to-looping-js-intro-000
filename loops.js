@@ -23,7 +23,7 @@ function incrementVariable() {
   return i;
 };
 
-var i = 1;
+var i = -1;
 
 function doWhileLoop(int) {
   do {
